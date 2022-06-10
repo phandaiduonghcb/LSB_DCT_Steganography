@@ -1,0 +1,5 @@
+numpy==1.22.4
+opencv-python==4.5.5.64
+Pillow==9.1.1
+sewar==0.4.5
+tifffile==2022.5.4
